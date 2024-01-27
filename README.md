@@ -5,6 +5,8 @@ Machine Learning Wifu Detection from Dataset Anime and Manga
 
 Submission Dicoding Bank DBS Coding Camp 2024.
 
+Setting you GPU, you must have Google Collab Pro.
+
 How to use?
 1. [Sign in Google Collab](https://colab.research.google.com/)
 2. Create new folder: gambar,dataset,and Save_Dataset.
